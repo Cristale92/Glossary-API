@@ -1,2 +1,43 @@
 EN,IT
-Sample Term,Esempio demo
+Strength,Forza
+Dexterity,Destrezza
+Constitution,Costituzione
+Intelligence,Intelligenza
+Wisdom,Saggezezza
+Charisma,Charisma
+Armor Class,Classe Armatura
+Hit Points,Punti Ferita
+Hit Dice,Dadi Vita
+Saving Throw,Tipo Salvezza
+Initiative,Iniziativa
+Passive Perception,Percezzione Passiva
+Advantage,Vantaggio
+Disadvantage,Svantaggio
+Š
+Proficiency,Competenza
+Proficiency Bonus,Bonus di Competenza
+Skill Check,Prova di Abilita
+Ability Check,Prova di Caratteristica
+Attack Roll,Tipo per Colpire
+Damage Roll,Tiro per i Danni
+Long Rest,Riposo Longo
+Short Rest,Riposo Breve
+FighterGuerriero
+Wizard,Mago*Chieric,Chierico
+Rogue,Ladro
+Ranger,Ranger
+Paladin,Paladin
+Bard,Bardo
+Druid,Druido
+Sorcerer,Stregone
+Warlock,Warlock
+Monk,Monaco
+Barbarian,Barbaro
+Human,Umano
+Elf,Elf
+Dwarf,Nano
+Halfling,Halfling
+Orc,Orco
+Goblin,Goblin
+Dragonborn,Dragonide
+Tiefling,Tiefling
