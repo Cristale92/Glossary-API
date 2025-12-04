@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Privacy & Terms — Glossary GPT</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root { color-scheme: light dark; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 16px; line-height: 1.6; }
+    h1 { margin-bottom: 0.25rem; }
+    header p { margin-top: 0; color: #666; }
+    nav { margin: 24px 0; }
+    nav a { margin-right: 12px; }
+    code { background: rgba(127,127,127,.1); padding: 2px 4px; border-radius: 4px; }
+    footer { margin: 40px 0; font-size: .9em; color: #666; }
+    hr { margin: 32px 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Privacy & Terms — Glossary GPT</h1>
+    <p><strong>Effective date:</strong> December 4, 2025</p>
+  </header>
+
+  <nav>
+    <a href="#privacy">Privacy Policy</a>
+    <a href="#terms">Terms of Use</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="privacy">
+    <h2>Privacy Policy</h2>
+    <p>Glossary GPT is a custom AI assistant that reads and updates a bilingual glossary stored at
+      <code>Glossario.csv</code> in the GitHub repository <code>Cristale92/Glossary-API</code>.</p>
+
+    <h3>What data we process</h3>
+    <ul>
+      <li>User prompts and instructions provided to the GPT inside OpenAI’s interface.</li>
+      <li>Repository details necessary to operate (owner/repo, file path <code>Glossario.csv</code>, branch <code>main</code>).</li>
+      <li>File contents of <code>Glossario.csv</code> to read and commit updates.</li>
+      <li>Commit metadata (commit message, file SHA, timestamps) when changes are made.</li>
+    </ul>
+
+    <h3>Authentication & tokens</h3>
+    <p>Access to GitHub is performed using a Personal Access Token (PAT) that you configure within OpenAI Actions.
+       The token is transmitted by OpenAI to GitHub for the API calls and is not collected by us outside of OpenAI’s platform.
+       You may revoke it anytime in your GitHub settings.</p>
+
+    <h3>How we use data</h3>
+    <p>Data is used solely to maintain your glossary (read, add, update, delete entries) as requested by you.
+       We do not sell your data. Data is shared only with GitHub via its REST API in order to read/write the file.</p>
+
+    <h3>Data retention</h3>
+    <ul>
+      <li>No separate database is maintained by us; your glossary persists in your GitHub repository and commit history.</li>
+      <li>Conversation data may be retained by OpenAI per their policies.</li>
+    </ul>
+
+    <h3>Your choices</h3>
+    <ul>
+      <li>Revoke or rotate your GitHub PAT at any time.</li>
+      <li>Edit or delete the glossary file in your repository.</li>
+      <li>Delete commits or the repository according to GitHub’s features.</li>
+    </ul>
+
+    <h3>Third parties</h3>
+    <p>This GPT interacts with GitHub’s REST API. Please review GitHub’s own privacy practices.</p>
+
+    <h3>Children’s data</h3>
+    <p>This service is not intended for children under the age required by local law. We do not knowingly collect such data.</p>
+
+    <h3>Changes to this policy</h3>
+    <p>We may update this Privacy Policy from time to time. Material changes will be reflected by updating the effective date above.</p>
+  </section>
+
+  <hr />
+
+  <section id="terms">
+    <h2>Terms of Use</h2>
+
+    <h3>Description of the service</h3>
+    <p>Glossary GPT helps you manage a bilingual glossary by reading and updating <code>Glossario.csv</code> in your GitHub repository.</p>
+
+    <h3>User responsibilities</h3>
+    <ul>
+      <li>Provide a valid GitHub Personal Access Token with appropriate scopes (e.g., <code>repo</code>).</li>
+      <li>Ensure you have rights to modify the target repository and file.</li>
+      <li>Do not use the service to upload unlawful, infringing, or harmful content.</li>
+    </ul>
+
+    <h3>Acceptable use</h3>
+    <p>You agree not to misuse the service, including circumventing rate limits, attempting unauthorized access,
+       or interfering with GitHub’s or OpenAI’s services.</p>
+
+    <h3>Ownership & license</h3>
+    <p>You retain ownership of your repository content. By using this service, you authorize commits to your repository on your behalf.</p>
+
+    <h3>Availability & changes</h3>
+    <p>The service may change, suspend, or discontinue without notice. Features can be modified or removed.</p>
+
+    <h3>Disclaimer</h3>
+    <p>The service is provided “as is” and “as available,” without warranties of any kind, express or implied.</p>
+
+    <h3>Limitation of liability</h3>
+    <p>To the maximum extent permitted by law, we are not liable for any indirect, incidental, special, consequential,
+       or punitive damages, or any loss of data or repository changes arising from use of the service.</p>
+
+    <h3>Indemnification</h3>
+    <p>You agree to indemnify and hold harmless the provider from claims arising out of your use of the service or your content.</p>
+
+    <h3>Governing law</h3>
+    <p>These Terms are governed by applicable laws of your jurisdiction unless superseded by mandatory local law.</p>
+
+    <h3>Changes to these Terms</h3>
+    <p>We may update these Terms from time to time. Continued use after changes constitutes acceptance of the revised Terms.</p>
+
+    <p><em>This page is a general template and does not constitute legal advice.</em></p>
+  </section>
+
+  <hr />
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:[YOUR CONTACT EMAIL]">[YOUR CONTACT EMAIL]</a></p>
+  </section>
+
+  <footer>
+    <p>© <span id="y"></span> Glossary GPT</p>
+  </footer>
+
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>
