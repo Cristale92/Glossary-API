@@ -1,65 +1,107 @@
 EN,IT
-Operations Dome,CUpola Operativa
-Researth and Development Department (R&D),Dipartimento di Ricerca e Sviluppo
-Toy Battlefield,Frote dei Giocattoli
-Holiday Tree Forest,Foresta degli Alberi di Natale
-Stables,Scuderie
-Docks,Molo
-Logistics Department,Dipartimento di Logistica
-Coordination Center,Centro di Coordinamento
-Santa's Vault,Il Caveau di Babbo Natale
-Warehouse,Magazzino 
-Sugar Cannon,Cannone di Zucchero Filato
-Sugar Gun,Pistola di Zucchero Filato
-Prototype "Zuccherino",Prototipo "Zuccherino"
-Elffrieda Gearmind,Elffrieda Gearmind
-Elffrida Ingranamenta,Elffrida Ingranamenta
-Tor Soldier,Soldatino Giocattolo
-Tor Warband,Banda da Guerra di Giocattoli
-Living Present,Pacco Vivente
-Spirit of Christmas,Spirito del Natale
-Santa Claus (Corrupted),Babbo Natale Corrotto
-Naughty List,Lista dei Cattivi
-Research and Development,Dipartimento di Ricerca e Sviluppo
-Toy Factory,Fabbrica dei Giocattoli
-Time Clock,Orologio del Tempo
-Rule of Cool,(Non tradurre) 
+Strength,Forza
+Dexterity,Destrezza
+Constitution,Costituzione
+Intelligence,Intelligenza
+Wisdom,Saggezezza
+Charisma,Charisma
+Armor Class,Classe Armatura
+Hit Points,Punti Ferita
+Hit Dice,Dadi Vita
+Saving Throw,Tipo Salvezza
+Initiative,Iniziativa
+Passive Perception,Percezzione Passiva
+Advantage,Vantaggio
+Disadvantage,Svantaggio
+Proficiency,Competenza
+Proficiency Bonus,Bonus di Competenza
+Skill Check,Prova di Abilita
+Ability Check,Prova di Caratderistica
+Attack Roll,Tipo per Colpire
+Damage Roll,Tiro per i Danni
+Long Rest,Riposo Longo
+Short Rest,Riposo Breve
+FighterGuerriero
+Wizard,Mago*Chieric,Chierico
+Rogue,Ladro
+Ranger,Ranger
+Paladin,Paladin
+Bard,Bardo
+Druid,Druido
+Sorcerer,Stregone
+Warlock,Warlock
+Monk,Monaco
+Barbarian,Barbaro
+Human,Umano
+Elf,Elf
+Dwarf,Nano
+Halfling,Halfling
+Orc,Orco
+Goblin,Goblin
+Dragonborn,Dragonide
+Tiefling,Tiefling
+Curse of Strahd,Non Tradurre
+Fleshing Out,Non tradurre 
+DM,Non Tradurre
+NPC,PNG
+TPK,Non Tradurre 
+Ireena Kolyana,Non tradurre
+Village of Barovia,Villaggio de Barovia
+Burgomaster,Borgomastror\nReddit,Non Tradurre
+u/Mandymod,Non tradurre
+r/CurseofStrahd,Non Tradurre
+GM Binder,Non tradurre
+CoS,Non Tradurre
+DM's Guild,Non Tradurre
+Barovia,Non Tradurre
+Van Richten/Non Tradurre
+Patron,Patrono
+Fanes/Non Tradurre
+Wereraven/Corvo Mannaro
+Demiplane,semipiano
+Shadowfell,Non Tradurre
+Domains of Dread,Domini nel Terrore
+Darklord,Signore Osccuro
+Fleshing Out,Non tradurre
+Vestiges,vestigia
+Vampyr,Vampyr
+Amber Temple,Tempio d'Ambra
+Ladies Three,Tre Signore
+The Seeker,La Cercatrice
+The Weaver,La Tessitrice
+The Huntress,La Cacciccice
+Mount Ghakis,Monte Ghakis
+Morninglord,Signore del Mattino
+Castle Ravenloft,Castello di Ravenloft
+Amber sarcophagus,sarcofago d'ambra
+Mists,Nebbie
+Misty Escape,Fuga Nebbiosa
+Shapechanger,Mutapelle
+Heart of Sorrow,Cuore del Dolore
+Legendary Resistance,Resistenza Leggendaria
+Ultra-freezer machine,Macchina Ultra-Congelante
+R&D [department],Dipartimento di Ricerca e Sviluppo
+Bearer's bonds,Obbligazioni al portatore
+Head of Logistics,Capo della Logistice
+Rule of Cool,Rule of Cool
+pre-gen character sheet,Scheda,del personaggio pregenerata
 Reskinned,Reskinnato
-Theatre Of the Mind,Teatro della Mente
-Lair Actions,Azyoni di Lair
-Legendary Actions,Azyoni Leggendarie
-Christmas Spirit Points,Punti Spirito Natalizio
-Toy Warband,Banda di Giocattoli
-Prototype "Zuccherino",Prototipo "Zuccherino"
-Elffrida Gearmind,(Non tradurre) 
-Spirit of Christmas,Spirito del Natale
-Santa Claus (Corrupted),Babbo Natale corrotto
-Sone Queen,Regina delle Nevi
-Rat King,Re dei Topi
-Snow Queen,Regina del Ghiaccio
-Grench,Grunch
-Scrooge,Scrooge
-Krampus,Krampus
-Yeti,Yeti
-Gingerbread Witch,Strega del Pan di Zenzero
-Lair Actions,Azzioni di Lair
-Naughty List,Lista dei Cattivi
-Christmas Must Go On,Il Natale deve continuare
-The Naughty get what they deserve,Ii cattivi ottengono cið he meritano.
-Remember: Happiness is mandatory.,Ricorda: la felicité mào obligatoria.
-Granite di Coreandoli,Granata di Coriandoli
-Hart of Pine,Cuore di Pino
-Candy Cane Key,Chiave a Bastoncino di Zucchero
-Candy Hammer,Martello del Polo Nord
-Candy Wand,Bacchetta di Zucchero
-Heart of Pine,Cuore di Pino
-Kit of Repair on Sleighs,Kit di Riparazione Slitte
-Living Goft,Pacco Vivente
-Elffridea Gearmind,Elffrida Gearmind
-Gingerbread Witch,Strega del Pan di Zenzero
-Christmas Spirit Points,Punti Spirito Natalizio
-Toy Warband,Banda,giocattoli
-Private Motivations,Motivazioni Personali
-Lair Actions,Azioni di Lair
-Legendary Actions,Azioni Leggendaria
-Warehouse,Magazjino
+Time Clock,Orologio del Tempo
+Ray of Sunshine,Raggio di Sole
+Handout,Handout
+Scoreboard,Classifica degli Punteggi
+FLGS,Amichevole NEgozzio di giochi di quartiire
+Crystal Christmas Tree,Albero di Natale di Cristallo
+Santa Clauss's North Pole Center,Centro del Polo Nord di Babbo Natale
+Grunch's lair,Tana di Grunch
+Operations Dome,CUpola Operativa
+letter receiving line,linea di ricezione delle lettere
+Toy Battlefield,Il Fronte tei giocattoli
+Holiday Tree forest,Foresta delli alberi di Natale
+Testing Area,Area di Test
+Toy plant,Fabrica di giocattoli
+space-continuum defenses,difese Spazio-temporali
+receiver machine,Macchina Ricevente
+Winter Holiday,Feste natalizie
+North Pole Base,Base del Polo Nord
+North Pole Central Complex (NPCC),Complesso Centrale del Polo Nord di Babbo Natale
